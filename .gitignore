@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Dados grandes / sensíveis
+# Por padrão, não versionar bases brutas grandes.
+data/raw/*
+!data/raw/.gitkeep
+
+# Saídas geradas
+outputs/figures/*
+!outputs/figures/.gitkeep
+
+# Pode versionar tabelas finais pequenas se desejar
+# outputs/tables/*
+# !outputs/tables/.gitkeep
+
+# Sistema
+.DS_Store

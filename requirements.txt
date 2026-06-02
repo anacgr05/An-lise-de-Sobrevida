@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+lifelines
+statsmodels
+scikit-survival
+pycox
+torchtuples
+torch
+jupyter
+ipykernel
+nbformat
