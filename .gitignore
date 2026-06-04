@@ -1,22 +1,6 @@
-# Python
-__pycache__/
-*.py[cod]
-.venv/
-venv/
+data/raw/
 .ipynb_checkpoints/
-
-# Dados grandes / sensíveis
-# Por padrão, não versionar bases brutas grandes.
-data/raw/*
-!data/raw/.gitkeep
-
-# Saídas geradas
-outputs/figures/*
-!outputs/figures/.gitkeep
-
-# Pode versionar tabelas finais pequenas se desejar
-# outputs/tables/*
-# !outputs/tables/.gitkeep
-
-# Sistema
-.DS_Store
+__pycache__/
+*.pkl
+*.h5
+*.pt
