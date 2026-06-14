@@ -1,0 +1,8 @@
+﻿base;n_pacientes
+survival;506
+clinical;520
+expression;515
+survival ∩ clinical;506
+survival ∩ expression;502
+clinical ∩ expression;515
+survival ∩ clinical ∩ expression;502
