@@ -1,7 +1,0 @@
-﻿modelo;configuracao
-CoxPH;"penalizer=1.0; scaler=True; variance_threshold=0.01; corr_threshold=0.90"
-Weibull AFT;"penalizer=0.1; scaler=True; variance_threshold=0.01; corr_threshold=0.90"
-RSF;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5; corr_threshold=0.90"
-GBSA;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7; corr_threshold=0.90"
-DeepSurv;"MLP=[16,8]; dropout=0.1; batch_size=32; epochs=100; lr=0.001; early_stopping=10"
-DeepHit;"MLP=[32,16]; num_durations=30; alpha=0.5; sigma=0.1; batch_size=32; epochs=200; lr=0.001; early_stopping=10"
