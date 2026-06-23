@@ -1,451 +1,451 @@
-﻿modelo;fold_externo;fold_interno;parametros;c_index_validacao_interna;n_genes_inner
-CoxPH;1;1;penalizer=0.1;;
-CoxPH;1;2;penalizer=0.1;;
-CoxPH;1;3;penalizer=0.1;;
-CoxPH;1;1;penalizer=1.0;;
-CoxPH;1;2;penalizer=1.0;;
-CoxPH;1;3;penalizer=1.0;;
-CoxPH;1;1;penalizer=10.0;;
-CoxPH;1;2;penalizer=10.0;;
-CoxPH;1;3;penalizer=10.0;;
-CoxPH;2;1;penalizer=0.1;;
-CoxPH;2;2;penalizer=0.1;;
-CoxPH;2;3;penalizer=0.1;;
-CoxPH;2;1;penalizer=1.0;;
-CoxPH;2;2;penalizer=1.0;;
-CoxPH;2;3;penalizer=1.0;;
-CoxPH;2;1;penalizer=10.0;;
-CoxPH;2;2;penalizer=10.0;;
-CoxPH;2;3;penalizer=10.0;;
-CoxPH;3;1;penalizer=0.1;;
-CoxPH;3;2;penalizer=0.1;;
-CoxPH;3;3;penalizer=0.1;;
-CoxPH;3;1;penalizer=1.0;;
-CoxPH;3;2;penalizer=1.0;;
-CoxPH;3;3;penalizer=1.0;;
-CoxPH;3;1;penalizer=10.0;;
-CoxPH;3;2;penalizer=10.0;;
-CoxPH;3;3;penalizer=10.0;;
-CoxPH;4;1;penalizer=0.1;;
-CoxPH;4;2;penalizer=0.1;;
-CoxPH;4;3;penalizer=0.1;;
-CoxPH;4;1;penalizer=1.0;;
-CoxPH;4;2;penalizer=1.0;;
-CoxPH;4;3;penalizer=1.0;;
-CoxPH;4;1;penalizer=10.0;;
-CoxPH;4;2;penalizer=10.0;;
-CoxPH;4;3;penalizer=10.0;;
-CoxPH;5;1;penalizer=0.1;;
-CoxPH;5;2;penalizer=0.1;;
-CoxPH;5;3;penalizer=0.1;;
-CoxPH;5;1;penalizer=1.0;;
-CoxPH;5;2;penalizer=1.0;;
-CoxPH;5;3;penalizer=1.0;;
-CoxPH;5;1;penalizer=10.0;;
-CoxPH;5;2;penalizer=10.0;;
-CoxPH;5;3;penalizer=10.0;;
-Weibull AFT;1;1;penalizer=0.1;;
-Weibull AFT;1;2;penalizer=0.1;;
-Weibull AFT;1;3;penalizer=0.1;;
-Weibull AFT;1;1;penalizer=1.0;;
-Weibull AFT;1;2;penalizer=1.0;;
-Weibull AFT;1;3;penalizer=1.0;;
-Weibull AFT;1;1;penalizer=10.0;;
-Weibull AFT;1;2;penalizer=10.0;;
-Weibull AFT;1;3;penalizer=10.0;;
-Weibull AFT;2;1;penalizer=0.1;;
-Weibull AFT;2;2;penalizer=0.1;;
-Weibull AFT;2;3;penalizer=0.1;;
-Weibull AFT;2;1;penalizer=1.0;;
-Weibull AFT;2;2;penalizer=1.0;;
-Weibull AFT;2;3;penalizer=1.0;;
-Weibull AFT;2;1;penalizer=10.0;;
-Weibull AFT;2;2;penalizer=10.0;;
-Weibull AFT;2;3;penalizer=10.0;;
-Weibull AFT;3;1;penalizer=0.1;;
-Weibull AFT;3;2;penalizer=0.1;;
-Weibull AFT;3;3;penalizer=0.1;;
-Weibull AFT;3;1;penalizer=1.0;;
-Weibull AFT;3;2;penalizer=1.0;;
-Weibull AFT;3;3;penalizer=1.0;;
-Weibull AFT;3;1;penalizer=10.0;;
-Weibull AFT;3;2;penalizer=10.0;;
-Weibull AFT;3;3;penalizer=10.0;;
-Weibull AFT;4;1;penalizer=0.1;;
-Weibull AFT;4;2;penalizer=0.1;;
-Weibull AFT;4;3;penalizer=0.1;;
-Weibull AFT;4;1;penalizer=1.0;;
-Weibull AFT;4;2;penalizer=1.0;;
-Weibull AFT;4;3;penalizer=1.0;;
-Weibull AFT;4;1;penalizer=10.0;;
-Weibull AFT;4;2;penalizer=10.0;;
-Weibull AFT;4;3;penalizer=10.0;;
-Weibull AFT;5;1;penalizer=0.1;;
-Weibull AFT;5;2;penalizer=0.1;;
-Weibull AFT;5;3;penalizer=0.1;;
-Weibull AFT;5;1;penalizer=1.0;;
-Weibull AFT;5;2;penalizer=1.0;;
-Weibull AFT;5;3;penalizer=1.0;;
-Weibull AFT;5;1;penalizer=10.0;;
-Weibull AFT;5;2;penalizer=10.0;;
-Weibull AFT;5;3;penalizer=10.0;;
-RSF;1;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5593936381709742;13.0
-RSF;1;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.6460575719649562;8.0
-RSF;1;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5966346153846154;9.0
-RSF;1;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5603876739562624;13.0
-RSF;1;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.6575719649561953;8.0
-RSF;1;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.6021634615384616;9.0
-RSF;1;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5757952286282306;13.0
-RSF;1;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.6505632040050062;8.0
-RSF;1;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5966346153846154;9.0
-RSF;1;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.554920477137177;13.0
-RSF;1;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.6525657071339174;8.0
-RSF;1;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5942307692307692;9.0
-RSF;1;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5680914512922465;13.0
-RSF;1;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.6478097622027534;8.0
-RSF;1;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5879807692307693;9.0
-RSF;1;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5785288270377733;13.0
-RSF;1;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.6623279098873592;8.0
-RSF;1;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5879807692307693;9.0
-RSF;1;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5757952286282306;13.0
-RSF;1;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.6505632040050062;8.0
-RSF;1;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5966346153846154;9.0
-RSF;1;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.554920477137177;13.0
-RSF;1;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.6525657071339174;8.0
-RSF;1;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5942307692307692;9.0
-RSF;1;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5775347912524851;13.0
-RSF;1;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.6505632040050062;8.0
-RSF;1;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5862980769230769;9.0
-RSF;1;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5705765407554672;13.0
-RSF;1;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.6493116395494368;8.0
-RSF;1;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5923076923076923;9.0
-RSF;1;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5785288270377733;13.0
-RSF;1;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.6545682102628285;8.0
-RSF;1;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5867788461538461;9.0
-RSF;1;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5611332007952287;13.0
-RSF;1;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.6565707133917397;8.0
-RSF;1;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5971153846153846;9.0
-RSF;1;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5864811133200796;13.0
-RSF;1;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.6543178973717146;8.0
-RSF;1;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5762019230769231;9.0
-RSF;1;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.577037773359841;13.0
-RSF;1;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.6500625782227785;8.0
-RSF;1;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5911057692307692;9.0
-RSF;1;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5785288270377733;13.0
-RSF;1;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.6545682102628285;8.0
-RSF;1;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5867788461538461;9.0
-RSF;1;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5611332007952287;13.0
-RSF;1;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.6565707133917397;8.0
-RSF;1;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5971153846153846;9.0
-RSF;2;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5921908893709328;8.0
-RSF;2;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5608395324123273;13.0
-RSF;2;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5606100447015514;3.0
-RSF;2;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.601349722824777;8.0
-RSF;2;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5393198724760893;13.0
-RSF;2;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5556139889560873;3.0
-RSF;2;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.6011087008917811;8.0
-RSF;2;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5326780021253985;13.0
-RSF;2;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5448330265579805;3.0
-RSF;2;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5844781875150639;8.0
-RSF;2;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5454303931987248;13.0
-RSF;2;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5556139889560873;3.0
-RSF;2;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.6011087008917811;8.0
-RSF;2;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5534006376195537;13.0
-RSF;2;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5666579016565869;3.0
-RSF;2;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.6044830079537238;8.0
-RSF;2;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5494155154091392;13.0
-RSF;2;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5606100447015514;3.0
-RSF;2;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.6011087008917811;8.0
-RSF;2;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5326780021253985;13.0
-RSF;2;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5448330265579805;3.0
-RSF;2;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5844781875150639;8.0
-RSF;2;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5454303931987248;13.0
-RSF;2;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5556139889560873;3.0
-RSF;2;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5946011087008918;8.0
-RSF;2;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.553134962805526;13.0
-RSF;2;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5645542992374442;3.0
-RSF;2;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5948421306338877;8.0
-RSF;2;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5491498405951116;13.0
-RSF;2;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5574546410728373;3.0
-RSF;2;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5996625692938058;8.0
-RSF;2;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5363974495217854;13.0
-RSF;2;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5550880883513016;3.0
-RSF;2;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5806218365871294;8.0
-RSF;2;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5499468650371945;13.0
-RSF;2;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5606100447015514;3.0
-RSF;2;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5967703060978549;8.0
-RSF;2;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5518065887353879;13.0
-RSF;2;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5690244543781225;3.0
-RSF;2;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5859243191130393;8.0
-RSF;2;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5579171094580234;13.0
-RSF;2;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5558769392584801;3.0
-RSF;2;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5996625692938058;8.0
-RSF;2;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5363974495217854;13.0
-RSF;2;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5550880883513016;3.0
-RSF;2;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5806218365871294;8.0
-RSF;2;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5499468650371945;13.0
-RSF;2;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5606100447015514;3.0
-RSF;3;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.6482661004953999;7.0
-RSF;3;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5846885163872905;12.0
-RSF;3;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5506887052341598;15.0
-RSF;3;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.6298655343241331;7.0
-RSF;3;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5726795096322241;12.0
-RSF;3;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5617079889807163;15.0
-RSF;3;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.6357631516867186;7.0
-RSF;3;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5774330748061046;12.0
-RSF;3;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5487603305785124;15.0
-RSF;3;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.6324604859636707;7.0
-RSF;3;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.592694520890668;12.0
-RSF;3;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5545454545454546;15.0
-RSF;3;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.6499174333569238;7.0
-RSF;3;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5841881411058294;12.0
-RSF;3;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.556198347107438;15.0
-RSF;3;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.6230242981835339;7.0
-RSF;3;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5709281961471103;12.0
-RSF;3;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5633608815426997;15.0
-RSF;3;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.6357631516867186;7.0
-RSF;3;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5774330748061046;12.0
-RSF;3;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5487603305785124;15.0
-RSF;3;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.6324604859636707;7.0
-RSF;3;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.592694520890668;12.0
-RSF;3;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5545454545454546;15.0
-RSF;3;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.6494456239679169;7.0
-RSF;3;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5936952714535902;12.0
-RSF;3;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5567493112947658;15.0
-RSF;3;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.6437839112998349;7.0
-RSF;3;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5866900175131349;12.0
-RSF;3;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.553443526170799;15.0
-RSF;3;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.6428402925218212;7.0
-RSF;3;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5846885163872905;12.0
-RSF;3;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5506887052341598;15.0
-RSF;3;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.6430761972163246;7.0
-RSF;3;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.6017012759569678;12.0
-RSF;3;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5641873278236914;15.0
-RSF;3;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.6416607690493041;7.0
-RSF;3;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5864398298724043;12.0
-RSF;3;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5608815426997246;15.0
-RSF;3;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.6385940080207596;7.0
-RSF;3;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5796847635726795;12.0
-RSF;3;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5520661157024793;15.0
-RSF;3;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.6428402925218212;7.0
-RSF;3;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5846885163872905;12.0
-RSF;3;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5506887052341598;15.0
-RSF;3;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.6430761972163246;7.0
-RSF;3;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.6017012759569678;12.0
-RSF;3;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5641873278236914;15.0
-RSF;4;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5986042905143448;8.0
-RSF;4;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5200488997555012;4.0
-RSF;4;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5299055613850997;9.0
-RSF;4;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5944688550012923;8.0
-RSF;4;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5462102689486552;4.0
-RSF;4;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5422350472193075;9.0
-RSF;4;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5675885241664512;8.0
-RSF;4;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5158924205378973;4.0
-RSF;4;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5535152151101784;9.0
-RSF;4;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5851641250969243;8.0
-RSF;4;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5466992665036675;4.0
-RSF;4;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5506295907660022;9.0
-RSF;4;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.6019643318686999;8.0
-RSF;4;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5144254278728606;4.0
-RSF;4;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5351521511017838;9.0
-RSF;4;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5849056603773585;8.0
-RSF;4;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.539119804400978;4.0
-RSF;4;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.531479538300105;9.0
-RSF;4;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5675885241664512;8.0
-RSF;4;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5158924205378973;4.0
-RSF;4;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5535152151101784;9.0
-RSF;4;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5851641250969243;8.0
-RSF;4;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5466992665036675;4.0
-RSF;4;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5506295907660022;9.0
-RSF;4;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5965365727578186;8.0
-RSF;4;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5171149144254279;4.0
-RSF;4;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5322665267576075;9.0
-RSF;4;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5908503489273714;8.0
-RSF;4;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5420537897310513;4.0
-RSF;4;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5550891920251836;9.0
-RSF;4;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5805117601447403;8.0
-RSF;4;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5154034229828851;4.0
-RSF;4;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5558761804826863;9.0
-RSF;4;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5898164900491083;8.0
-RSF;4;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5290953545232274;4.0
-RSF;4;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5571878279118573;9.0
-RSF;4;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.6011889377100026;8.0
-RSF;4;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5122249388753056;4.0
-RSF;4;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5461699895068206;9.0
-RSF;4;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5895580253295425;8.0
-RSF;4;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5356968215158924;4.0
-RSF;4;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5464323189926548;9.0
-RSF;4;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5805117601447403;8.0
-RSF;4;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5154034229828851;4.0
-RSF;4;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5558761804826863;9.0
-RSF;4;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5898164900491083;8.0
-RSF;4;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5290953545232274;4.0
-RSF;4;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5571878279118573;9.0
-RSF;5;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5478595478595478;9.0
-RSF;5;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5586173555716702;2.0
-RSF;5;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5233213736545361;4.0
-RSF;5;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5613275613275613;9.0
-RSF;5;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5586173555716702;2.0
-RSF;5;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5407483341875962;4.0
-RSF;5;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.543049543049543;9.0
-RSF;5;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5540246555474981;2.0
-RSF;5;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5151204510507432;4.0
-RSF;5;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5531505531505532;9.0
-RSF;5;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5540246555474981;2.0
-RSF;5;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5279343926191696;4.0
-RSF;5;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5589225589225589;9.0
-RSF;5;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5559584239787285;2.0
-RSF;5;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.518452075858534;4.0
-RSF;5;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5538720538720538;9.0
-RSF;5;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5559584239787285;2.0
-RSF;5;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5238339313172732;4.0
-RSF;5;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.543049543049543;9.0
-RSF;5;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5540246555474981;2.0
-RSF;5;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5151204510507432;4.0
-RSF;5;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5531505531505532;9.0
-RSF;5;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5540246555474981;2.0
-RSF;5;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5279343926191696;4.0
-RSF;5;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5466570466570466;9.0
-RSF;5;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.56369349770365;2.0
-RSF;5;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5289595079446437;4.0
-RSF;5;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5642135642135642;9.0
-RSF;5;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.56369349770365;2.0
-RSF;5;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5399794976934905;4.0
-RSF;5;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5603655603655604;9.0
-RSF;5;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.546047860768673;2.0
-RSF;5;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5197334700153767;4.0
-RSF;5;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.564935064935065;9.0
-RSF;5;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.546047860768673;2.0
-RSF;5;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.544592516658124;4.0
-RSF;5;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.556998556998557;9.0
-RSF;5;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.562484892434131;2.0
-RSF;5;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.526652998462327;4.0
-RSF;5;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5512265512265512;9.0
-RSF;5;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.562484892434131;2.0
-RSF;5;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.531009738595592;4.0
-RSF;5;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5603655603655604;9.0
-RSF;5;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.546047860768673;2.0
-RSF;5;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5197334700153767;4.0
-RSF;5;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.564935064935065;9.0
-RSF;5;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.546047860768673;2.0
-RSF;5;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.544592516658124;4.0
-GBSA;1;1;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;1;2;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;1;3;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;1;1;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;1;2;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;1;3;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;1;1;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;1;2;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;1;3;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;1;1;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;1;2;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;1;3;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;1;1;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;1;2;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;1;3;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;1;1;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;1;2;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;1;3;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;1;1;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;1;2;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;1;3;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;1;1;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;1;2;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;1;3;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;2;1;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;2;2;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;2;3;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;2;1;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;2;2;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;2;3;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;2;1;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;2;2;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;2;3;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;2;1;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;2;2;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;2;3;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;2;1;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;2;2;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;2;3;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;2;1;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;2;2;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;2;3;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;2;1;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;2;2;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;2;3;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;2;1;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;2;2;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;2;3;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;3;1;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;3;2;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;3;3;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;3;1;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;3;2;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;3;3;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;3;1;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;3;2;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;3;3;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;3;1;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;3;2;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;3;3;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;3;1;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;3;2;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;3;3;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;3;1;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;3;2;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;3;3;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;3;1;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;3;2;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;3;3;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;3;1;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;3;2;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;3;3;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;4;1;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;4;2;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;4;3;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;4;1;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;4;2;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;4;3;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;4;1;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;4;2;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;4;3;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;4;1;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;4;2;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;4;3;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;4;1;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;4;2;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;4;3;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;4;1;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;4;2;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;4;3;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;4;1;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;4;2;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;4;3;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;4;1;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;4;2;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;4;3;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;5;1;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;5;2;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;5;3;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;5;1;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;5;2;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;5;3;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;5;1;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;5;2;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;5;3;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;5;1;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;5;2;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;5;3;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;5;1;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;5;2;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;5;3;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";;
-GBSA;5;1;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;5;2;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;5;3;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";;
-GBSA;5;1;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;5;2;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;5;3;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";;
-GBSA;5;1;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;5;2;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";;
-GBSA;5;3;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";;
+﻿coorte;modelo;fold_externo;fold_interno;parametros;c_index_validacao_interna;n_genes_inner
+LUSC;CoxPH;1;1;penalizer=0.1;0.577037773359841;13
+LUSC;CoxPH;1;2;penalizer=0.1;0.6703379224030037;8
+LUSC;CoxPH;1;3;penalizer=0.1;0.5918269230769231;9
+LUSC;CoxPH;1;1;penalizer=1.0;0.5752982107355865;13
+LUSC;CoxPH;1;2;penalizer=1.0;0.6635794743429286;8
+LUSC;CoxPH;1;3;penalizer=1.0;0.5944711538461539;9
+LUSC;CoxPH;1;1;penalizer=10.0;0.5728131212723658;13
+LUSC;CoxPH;1;2;penalizer=10.0;0.6623279098873592;8
+LUSC;CoxPH;1;3;penalizer=10.0;0.5915865384615384;9
+LUSC;CoxPH;2;1;penalizer=0.1;0.5801397927211376;8
+LUSC;CoxPH;2;2;penalizer=0.1;0.5409139213602551;13
+LUSC;CoxPH;2;3;penalizer=0.1;0.5968971864317644;3
+LUSC;CoxPH;2;1;penalizer=1.0;0.5880935165100024;8
+LUSC;CoxPH;2;2;penalizer=1.0;0.5478214665249734;13
+LUSC;CoxPH;2;3;penalizer=1.0;0.5782277149618722;3
+LUSC;CoxPH;2;1;penalizer=10.0;0.5859243191130393;8
+LUSC;CoxPH;2;2;penalizer=10.0;0.5430393198724761;13
+LUSC;CoxPH;2;3;penalizer=10.0;0.5845385222193006;3
+LUSC;CoxPH;3;1;penalizer=0.1;0.6428402925218212;7
+LUSC;CoxPH;3;2;penalizer=0.1;0.6009507130347761;12
+LUSC;CoxPH;3;3;penalizer=0.1;0.5950413223140496;15
+LUSC;CoxPH;3;1;penalizer=1.0;0.6602972399150743;7
+LUSC;CoxPH;3;2;penalizer=1.0;0.6162121591193395;12
+LUSC;CoxPH;3;3;penalizer=1.0;0.6068870523415978;15
+LUSC;CoxPH;3;1;penalizer=10.0;0.6607690493040812;7
+LUSC;CoxPH;3;2;penalizer=10.0;0.6144608456342256;12
+LUSC;CoxPH;3;3;penalizer=10.0;0.6060606060606061;15
+LUSC;CoxPH;4;1;penalizer=0.1;0.6267769449470147;8
+LUSC;CoxPH;4;2;penalizer=0.1;0.5660146699266504;4
+LUSC;CoxPH;4;3;penalizer=0.1;0.592077649527807;9
+LUSC;CoxPH;4;1;penalizer=1.0;0.6469371930731456;8
+LUSC;CoxPH;4;2;penalizer=1.0;0.5916870415647921;4
+LUSC;CoxPH;4;3;penalizer=1.0;0.6049317943336832;9
+LUSC;CoxPH;4;1;penalizer=10.0;0.6495218402688033;8
+LUSC;CoxPH;4;2;penalizer=10.0;0.5899755501222493;4
+LUSC;CoxPH;4;3;penalizer=10.0;0.6151626442812173;9
+LUSC;CoxPH;5;1;penalizer=0.1;0.5747955747955747;9
+LUSC;CoxPH;5;2;penalizer=0.1;0.5562001450326324;2
+LUSC;CoxPH;5;3;penalizer=0.1;0.5017939518195798;4
+LUSC;CoxPH;5;1;penalizer=1.0;0.5885040885040885;9
+LUSC;CoxPH;5;2;penalizer=1.0;0.5605511240029006;2
+LUSC;CoxPH;5;3;penalizer=1.0;0.5369041517170682;4
+LUSC;CoxPH;5;1;penalizer=10.0;0.5832130832130832;9
+LUSC;CoxPH;5;2;penalizer=10.0;0.5605511240029006;2
+LUSC;CoxPH;5;3;penalizer=10.0;0.5476678626345464;4
+LUSC;Weibull AFT;1;1;penalizer=0.1;0.5735586481113321;13
+LUSC;Weibull AFT;1;2;penalizer=0.1;0.6683354192740926;8
+LUSC;Weibull AFT;1;3;penalizer=0.1;0.5862980769230769;9
+LUSC;Weibull AFT;1;1;penalizer=1.0;0.5710735586481114;13
+LUSC;Weibull AFT;1;2;penalizer=1.0;0.662828535669587;8
+LUSC;Weibull AFT;1;3;penalizer=1.0;0.5975961538461538;9
+LUSC;Weibull AFT;1;1;penalizer=10.0;0.569831013916501;13
+LUSC;Weibull AFT;1;2;penalizer=10.0;0.6610763454317897;8
+LUSC;Weibull AFT;1;3;penalizer=10.0;0.5942307692307692;9
+LUSC;Weibull AFT;2;1;penalizer=0.1;0.5825500120510967;8
+LUSC;Weibull AFT;2;2;penalizer=0.1;0.5454303931987248;13
+LUSC;Weibull AFT;2;3;penalizer=0.1;0.5929529318958717;3
+LUSC;Weibull AFT;2;1;penalizer=1.0;0.5852012533140516;8
+LUSC;Weibull AFT;2;2;penalizer=1.0;0.5494155154091392;13
+LUSC;Weibull AFT;2;3;penalizer=1.0;0.5798054167762293;3
+LUSC;Weibull AFT;2;1;penalizer=10.0;0.5852012533140516;8
+LUSC;Weibull AFT;2;2;penalizer=10.0;0.5475557917109458;13
+LUSC;Weibull AFT;2;3;penalizer=10.0;0.5805942676834078;3
+LUSC;Weibull AFT;3;1;penalizer=0.1;0.637650389242746;7
+LUSC;Weibull AFT;3;2;penalizer=0.1;0.5946960220165124;12
+LUSC;Weibull AFT;3;3;penalizer=0.1;0.5955922865013774;15
+LUSC;Weibull AFT;3;1;penalizer=1.0;0.6598254305260675;7
+LUSC;Weibull AFT;3;2;penalizer=1.0;0.6164623467600701;12
+LUSC;Weibull AFT;3;3;penalizer=1.0;0.6074380165289256;15
+LUSC;Weibull AFT;3;1;penalizer=10.0;0.6645435244161358;7
+LUSC;Weibull AFT;3;2;penalizer=10.0;0.613710282712034;12
+LUSC;Weibull AFT;3;3;penalizer=10.0;0.6066115702479339;15
+LUSC;Weibull AFT;4;1;penalizer=0.1;0.6208322563970018;8
+LUSC;Weibull AFT;4;2;penalizer=0.1;0.5628361858190709;4
+LUSC;Weibull AFT;4;3;penalizer=0.1;0.5939139559286464;9
+LUSC;Weibull AFT;4;1;penalizer=1.0;0.6453864047557508;8
+LUSC;Weibull AFT;4;2;penalizer=1.0;0.5875305623471883;4
+LUSC;Weibull AFT;4;3;penalizer=1.0;0.6070304302203567;9
+LUSC;Weibull AFT;4;1;penalizer=10.0;0.6492633755492375;8
+LUSC;Weibull AFT;4;2;penalizer=10.0;0.5904645476772616;4
+LUSC;Weibull AFT;4;3;penalizer=10.0;0.6125393494228751;9
+LUSC;Weibull AFT;5;1;penalizer=0.1;0.5726310726310726;9
+LUSC;Weibull AFT;5;2;penalizer=0.1;0.562484892434131;2
+LUSC;Weibull AFT;5;3;penalizer=0.1;0.5046130189646335;4
+LUSC;Weibull AFT;5;1;penalizer=1.0;0.5865800865800865;9
+LUSC;Weibull AFT;5;2;penalizer=1.0;0.5634517766497462;2
+LUSC;Weibull AFT;5;3;penalizer=1.0;0.5340850845720143;4
+LUSC;Weibull AFT;5;1;penalizer=10.0;0.5851370851370852;9
+LUSC;Weibull AFT;5;2;penalizer=10.0;0.5634517766497462;2
+LUSC;Weibull AFT;5;3;penalizer=10.0;0.5486929779600205;4
+LUSC;RSF;1;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5432405566600398;13
+LUSC;RSF;1;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.6615769712140175;8
+LUSC;RSF;1;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5545673076923077;9
+LUSC;RSF;1;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.569831013916501;13
+LUSC;RSF;1;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.6683354192740926;8
+LUSC;RSF;1;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5764423076923076;9
+LUSC;RSF;1;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5564115308151093;13
+LUSC;RSF;1;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.644055068836045;8
+LUSC;RSF;1;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5896634615384615;9
+LUSC;RSF;1;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5750497017892644;13
+LUSC;RSF;1;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.6478097622027534;8
+LUSC;RSF;1;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5927884615384615;9
+LUSC;RSF;1;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5459741550695825;13
+LUSC;RSF;1;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.6610763454317897;8
+LUSC;RSF;1;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5723557692307693;9
+LUSC;RSF;1;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5907057654075547;13
+LUSC;RSF;1;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.660575719649562;8
+LUSC;RSF;1;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.578125;9
+LUSC;RSF;1;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5564115308151093;13
+LUSC;RSF;1;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.644055068836045;8
+LUSC;RSF;1;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5896634615384615;9
+LUSC;RSF;1;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5750497017892644;13
+LUSC;RSF;1;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.6478097622027534;8
+LUSC;RSF;1;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5927884615384615;9
+LUSC;RSF;1;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5467196819085487;13
+LUSC;RSF;1;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.6670838548185232;8
+LUSC;RSF;1;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5639423076923077;9
+LUSC;RSF;1;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5608846918489065;13
+LUSC;RSF;1;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.6780976220275344;8
+LUSC;RSF;1;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5774038461538461;9
+LUSC;RSF;1;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.547962226640159;13
+LUSC;RSF;1;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.655819774718398;8
+LUSC;RSF;1;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.59375;9
+LUSC;RSF;1;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5606361829025845;13
+LUSC;RSF;1;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.6553191489361702;8
+LUSC;RSF;1;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.6067307692307692;9
+LUSC;RSF;1;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5422465208747514;13
+LUSC;RSF;1;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.6670838548185232;8
+LUSC;RSF;1;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5704326923076923;9
+LUSC;RSF;1;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5648608349900597;13
+LUSC;RSF;1;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.6668335419274093;8
+LUSC;RSF;1;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5798076923076924;9
+LUSC;RSF;1;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.547962226640159;13
+LUSC;RSF;1;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.655819774718398;8
+LUSC;RSF;1;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.59375;9
+LUSC;RSF;1;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5606361829025845;13
+LUSC;RSF;1;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.6553191489361702;8
+LUSC;RSF;1;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.6067307692307692;9
+LUSC;RSF;2;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5586888406845023;8
+LUSC;RSF;2;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.555260361317747;13
+LUSC;RSF;2;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5535103865369445;3
+LUSC;RSF;2;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5755603759942155;8
+LUSC;RSF;2;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5603081827842721;13
+LUSC;RSF;2;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5448330265579805;3
+LUSC;RSF;2;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.6008676789587852;8
+LUSC;RSF;2;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5448990435706695;13
+LUSC;RSF;2;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5653431501446227;3
+LUSC;RSF;2;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5880935165100024;8
+LUSC;RSF;2;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5454303931987248;13
+LUSC;RSF;2;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5619247962135157;3
+LUSC;RSF;2;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5639913232104121;8
+LUSC;RSF;2;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5419766206163655;13
+LUSC;RSF;2;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5532474362345516;3
+LUSC;RSF;2;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5709809592672933;8
+LUSC;RSF;2;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5693411264612115;13
+LUSC;RSF;2;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5466736786747305;3
+LUSC;RSF;2;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.6008676789587852;8
+LUSC;RSF;2;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5448990435706695;13
+LUSC;RSF;2;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5653431501446227;3
+LUSC;RSF;2;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5880935165100024;8
+LUSC;RSF;2;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5454303931987248;13
+LUSC;RSF;2;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5619247962135157;3
+LUSC;RSF;2;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5798987707881417;8
+LUSC;RSF;2;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5446333687566419;13
+LUSC;RSF;2;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5635024980278728;3
+LUSC;RSF;2;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5729091347312606;8
+LUSC;RSF;2;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5528692879914984;13
+LUSC;RSF;2;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5429923744412306;3
+LUSC;RSF;2;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5955651964328754;8
+LUSC;RSF;2;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5446333687566419;13
+LUSC;RSF;2;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5742834604259794;3
+LUSC;RSF;2;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5907447577729573;8
+LUSC;RSF;2;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5470244420828906;13
+LUSC;RSF;2;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5645542992374442;3
+LUSC;RSF;2;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5813449023861171;8
+LUSC;RSF;2;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5448990435706695;13
+LUSC;RSF;2;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5592952931895872;3
+LUSC;RSF;2;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5709809592672933;8
+LUSC;RSF;2;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5619022316684378;13
+LUSC;RSF;2;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.540625821719695;3
+LUSC;RSF;2;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5955651964328754;8
+LUSC;RSF;2;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5446333687566419;13
+LUSC;RSF;2;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5742834604259794;3
+LUSC;RSF;2;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5907447577729573;8
+LUSC;RSF;2;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5470244420828906;13
+LUSC;RSF;2;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5645542992374442;3
+LUSC;RSF;3;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.6546355272469923;7
+LUSC;RSF;3;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.594946209657243;12
+LUSC;RSF;3;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5454545454545454;15
+LUSC;RSF;3;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.6562868601085161;7
+LUSC;RSF;3;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5984488366274706;12
+LUSC;RSF;3;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5399449035812672;15
+LUSC;RSF;3;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.6798773295588583;7
+LUSC;RSF;3;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5836877658243683;12
+LUSC;RSF;3;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5355371900826447;15
+LUSC;RSF;3;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.6591177164425572;7
+LUSC;RSF;3;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5896922692019014;12
+LUSC;RSF;3;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5363636363636364;15
+LUSC;RSF;3;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.6541637178579853;7
+LUSC;RSF;3;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5961971478608957;12
+LUSC;RSF;3;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5336088154269972;15
+LUSC;RSF;3;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.6772823779193206;7
+LUSC;RSF;3;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5846885163872905;12
+LUSC;RSF;3;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5242424242424243;15
+LUSC;RSF;3;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.6798773295588583;7
+LUSC;RSF;3;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5836877658243683;12
+LUSC;RSF;3;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5355371900826447;15
+LUSC;RSF;3;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.6591177164425572;7
+LUSC;RSF;3;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5896922692019014;12
+LUSC;RSF;3;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5363636363636364;15
+LUSC;RSF;3;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.6704411417787214;7
+LUSC;RSF;3;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5861896422316738;12
+LUSC;RSF;3;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5396694214876033;15
+LUSC;RSF;3;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.6579381929700401;7
+LUSC;RSF;3;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5991993995496623;12
+LUSC;RSF;3;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5446280991735537;15
+LUSC;RSF;3;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.6756310450577967;7
+LUSC;RSF;3;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5844383287465599;12
+LUSC;RSF;3;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5421487603305785;15
+LUSC;RSF;3;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.6553432413305025;7
+LUSC;RSF;3;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5891918939204404;12
+LUSC;RSF;3;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5443526170798898;15
+LUSC;RSF;3;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.6635999056381222;7
+LUSC;RSF;3;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5891918939204404;12
+LUSC;RSF;3;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5410468319559228;15
+LUSC;RSF;3;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.6631280962491154;7
+LUSC;RSF;3;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5951963972979735;12
+LUSC;RSF;3;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5391184573002755;15
+LUSC;RSF;3;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.6756310450577967;7
+LUSC;RSF;3;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5844383287465599;12
+LUSC;RSF;3;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5421487603305785;15
+LUSC;RSF;3;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.6553432413305025;7
+LUSC;RSF;3;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5891918939204404;12
+LUSC;RSF;3;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5443526170798898;15
+LUSC;RSF;4;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.607650555699147;8
+LUSC;RSF;4;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5112469437652811;4
+LUSC;RSF;4;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5548268625393494;9
+LUSC;RSF;4;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.6053243732230551;8
+LUSC;RSF;4;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5129584352078239;4
+LUSC;RSF;4;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5443336831059811;9
+LUSC;RSF;4;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5965365727578186;8
+LUSC;RSF;4;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5117359413202934;4
+LUSC;RSF;4;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5729275970619098;9
+LUSC;RSF;4;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5807702248643061;8
+LUSC;RSF;4;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5273838630806846;4
+LUSC;RSF;4;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5647953830010494;9
+LUSC;RSF;4;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.6097182734556733;8
+LUSC;RSF;4;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.511002444987775;4
+LUSC;RSF;4;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.55299055613851;9
+LUSC;RSF;4;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5789609718273455;8
+LUSC;RSF;4;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5200488997555012;4
+LUSC;RSF;4;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5474816369359916;9
+LUSC;RSF;4;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5965365727578186;8
+LUSC;RSF;4;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5117359413202934;4
+LUSC;RSF;4;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5729275970619098;9
+LUSC;RSF;4;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5807702248643061;8
+LUSC;RSF;4;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5273838630806846;4
+LUSC;RSF;4;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5647953830010494;9
+LUSC;RSF;4;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.6079090204187129;8
+LUSC;RSF;4;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5095354523227383;4
+LUSC;RSF;4;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5511542497376705;9
+LUSC;RSF;4;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.6022227965882657;8
+LUSC;RSF;4;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.50880195599022;4
+LUSC;RSF;4;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5330535152151101;9
+LUSC;RSF;4;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.6045489790643577;8
+LUSC;RSF;4;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5144254278728606;4
+LUSC;RSF;4;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5729275970619098;9
+LUSC;RSF;4;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.599638149392608;8
+LUSC;RSF;4;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5232273838630807;4
+LUSC;RSF;4;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5548268625393494;9
+LUSC;RSF;4;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.6058413026621866;8
+LUSC;RSF;4;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5161369193154034;4
+LUSC;RSF;4;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5451206715634838;9
+LUSC;RSF;4;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5908503489273714;8
+LUSC;RSF;4;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5227383863080685;4
+LUSC;RSF;4;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5351521511017838;9
+LUSC;RSF;4;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.6045489790643577;8
+LUSC;RSF;4;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5144254278728606;4
+LUSC;RSF;4;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5729275970619098;9
+LUSC;RSF;4;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.599638149392608;8
+LUSC;RSF;4;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5232273838630807;4
+LUSC;RSF;4;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5548268625393494;9
+LUSC;RSF;5;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5437710437710438;9
+LUSC;RSF;5;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5499153976311336;2
+LUSC;RSF;5;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5199897488467452;4
+LUSC;RSF;5;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5493025493025493;9
+LUSC;RSF;5;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5499153976311336;2
+LUSC;RSF;5;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=10; max_features=5";0.509226037929267;4
+LUSC;RSF;5;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5618085618085618;9
+LUSC;RSF;5;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5334783659656757;2
+LUSC;RSF;5;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5194771911840081;4
+LUSC;RSF;5;1;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5731120731120731;9
+LUSC;RSF;5;2;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5334783659656757;2
+LUSC;RSF;5;3;"n_estimators=100; min_samples_split=15; min_samples_leaf=20; max_features=5";0.513582778062532;4
+LUSC;RSF;5;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5521885521885522;9
+LUSC;RSF;5;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5470147449842881;2
+LUSC;RSF;5;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5330599692465402;4
+LUSC;RSF;5;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5591630591630592;9
+LUSC;RSF;5;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5470147449842881;2
+LUSC;RSF;5;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5048692977960021;4
+LUSC;RSF;5;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5618085618085618;9
+LUSC;RSF;5;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5334783659656757;2
+LUSC;RSF;5;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5194771911840081;4
+LUSC;RSF;5;1;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5731120731120731;9
+LUSC;RSF;5;2;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5334783659656757;2
+LUSC;RSF;5;3;"n_estimators=100; min_samples_split=25; min_samples_leaf=20; max_features=5";0.513582778062532;4
+LUSC;RSF;5;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5553150553150553;9
+LUSC;RSF;5;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5535412134396906;2
+LUSC;RSF;5;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=sqrt";0.5205023065094824;4
+LUSC;RSF;5;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5521885521885522;9
+LUSC;RSF;5;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5535412134396906;2
+LUSC;RSF;5;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=10; max_features=5";0.5079446437724244;4
+LUSC;RSF;5;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5596440596440596;9
+LUSC;RSF;5;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5441140923374426;2
+LUSC;RSF;5;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=sqrt";0.5338288057406458;4
+LUSC;RSF;5;1;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5692640692640693;9
+LUSC;RSF;5;2;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.5441140923374426;2
+LUSC;RSF;5;3;"n_estimators=200; min_samples_split=15; min_samples_leaf=20; max_features=5";0.52614044079959;4
+LUSC;RSF;5;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5625300625300625;9
+LUSC;RSF;5;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5569253081943437;2
+LUSC;RSF;5;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=sqrt";0.5330599692465402;4
+LUSC;RSF;5;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5589225589225589;9
+LUSC;RSF;5;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5569253081943437;2
+LUSC;RSF;5;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=10; max_features=5";0.5064069707842133;4
+LUSC;RSF;5;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5596440596440596;9
+LUSC;RSF;5;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5441140923374426;2
+LUSC;RSF;5;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=sqrt";0.5338288057406458;4
+LUSC;RSF;5;1;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5692640692640693;9
+LUSC;RSF;5;2;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.5441140923374426;2
+LUSC;RSF;5;3;"n_estimators=200; min_samples_split=25; min_samples_leaf=20; max_features=5";0.52614044079959;4
+LUSC;GBSA;1;1;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";0.5506958250497018;13
+LUSC;GBSA;1;2;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";0.6126408010012515;8
+LUSC;GBSA;1;3;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";0.5763221153846154;9
+LUSC;GBSA;1;1;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";0.5337972166998012;13
+LUSC;GBSA;1;2;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";0.6465581977471839;8
+LUSC;GBSA;1;3;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";0.5900240384615385;9
+LUSC;GBSA;1;1;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";0.5494532803180915;13
+LUSC;GBSA;1;2;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";0.6281602002503129;8
+LUSC;GBSA;1;3;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";0.5770432692307692;9
+LUSC;GBSA;1;1;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";0.5387673956262425;13
+LUSC;GBSA;1;2;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";0.6498122653316646;8
+LUSC;GBSA;1;3;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";0.5883413461538461;9
+LUSC;GBSA;1;1;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";0.5508200795228628;13
+LUSC;GBSA;1;2;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";0.6157697121401752;8
+LUSC;GBSA;1;3;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";0.5810096153846154;9
+LUSC;GBSA;1;1;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";0.5467196819085487;13
+LUSC;GBSA;1;2;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";0.6460575719649562;8
+LUSC;GBSA;1;3;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";0.5855769230769231;9
+LUSC;GBSA;1;1;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";0.5509443339960238;13
+LUSC;GBSA;1;2;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";0.6360450563204005;8
+LUSC;GBSA;1;3;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";0.5763221153846154;9
+LUSC;GBSA;1;1;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";0.547713717693837;13
+LUSC;GBSA;1;2;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";0.6543178973717146;8
+LUSC;GBSA;1;3;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";0.5766826923076923;9
+LUSC;GBSA;2;1;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";0.5580862858520126;8
+LUSC;GBSA;2;2;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";0.5445005313496281;13
+LUSC;GBSA;2;3;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";0.5138048908756245;3
+LUSC;GBSA;2;1;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";0.5439865027717522;8
+LUSC;GBSA;2;2;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";0.5377258235919234;13
+LUSC;GBSA;2;3;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";0.515514067841178;3
+LUSC;GBSA;2;1;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";0.5608580380814654;8
+LUSC;GBSA;2;2;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";0.5445005313496281;13
+LUSC;GBSA;2;3;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";0.5268209308440704;3
+LUSC;GBSA;2;1;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";0.5454326343697277;8
+LUSC;GBSA;2;2;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";0.5281615302869288;13
+LUSC;GBSA;2;3;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";0.5211674993426243;3
+LUSC;GBSA;2;1;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";0.5553145336225597;8
+LUSC;GBSA;2;2;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";0.5349362380446334;13
+LUSC;GBSA;2;3;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";0.5209045490402314;3
+LUSC;GBSA;2;1;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";0.5531453362255966;8
+LUSC;GBSA;2;2;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";0.5332093517534537;13
+LUSC;GBSA;2;3;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";0.5199842229818564;3
+LUSC;GBSA;2;1;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";0.5588093516510002;8
+LUSC;GBSA;2;2;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";0.5375929861849097;13
+LUSC;GBSA;2;3;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";0.5376018932421772;3
+LUSC;GBSA;2;1;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";0.5533863581585924;8
+LUSC;GBSA;2;2;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";0.5369287991498406;13
+LUSC;GBSA;2;3;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";0.5391795950565343;3
+LUSC;GBSA;3;1;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";0.6231422505307855;7
+LUSC;GBSA;3;2;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";0.5647985989492119;12
+LUSC;GBSA;3;3;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";0.5506887052341598;15
+LUSC;GBSA;3;1;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";0.6322245812691673;7
+LUSC;GBSA;3;2;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";0.5644233174881161;12
+LUSC;GBSA;3;3;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";0.5454545454545454;15
+LUSC;GBSA;3;1;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";0.6332861523944326;7
+LUSC;GBSA;3;2;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";0.5649236927695772;12
+LUSC;GBSA;3;3;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";0.5570247933884298;15
+LUSC;GBSA;3;1;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";0.644963434772352;7
+LUSC;GBSA;3;2;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";0.5711783837878409;12
+LUSC;GBSA;3;3;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";0.5426997245179064;15
+LUSC;GBSA;3;1;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";0.6260910592120783;7
+LUSC;GBSA;3;2;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";0.5584188141105829;12
+LUSC;GBSA;3;3;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";0.5482093663911846;15
+LUSC;GBSA;3;1;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";0.6430761972163246;7
+LUSC;GBSA;3;2;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";0.5701776332249187;12
+LUSC;GBSA;3;3;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";0.5451790633608815;15
+LUSC;GBSA;3;1;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";0.6387119603680114;7
+LUSC;GBSA;3;2;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";0.5669251938954216;12
+LUSC;GBSA;3;3;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";0.5553719008264463;15
+LUSC;GBSA;3;1;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";0.6591177164425572;7
+LUSC;GBSA;3;2;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";0.576682511883913;12
+LUSC;GBSA;3;3;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";0.5429752066115703;15
+LUSC;GBSA;4;1;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";0.569139312483846;8
+LUSC;GBSA;4;2;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";0.5145476772616137;4
+LUSC;GBSA;4;3;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";0.5661070304302204;9
+LUSC;GBSA;4;1;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";0.5556991470664254;8
+LUSC;GBSA;4;2;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";0.4980440097799511;4
+LUSC;GBSA;4;3;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";0.5401364113326338;9
+LUSC;GBSA;4;1;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";0.572499353838201;8
+LUSC;GBSA;4;2;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";0.50880195599022;4
+LUSC;GBSA;4;3;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";0.5541710388247639;9
+LUSC;GBSA;4;1;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";0.5567330059446886;8
+LUSC;GBSA;4;2;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";0.4968215158924205;4
+LUSC;GBSA;4;3;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";0.5348898216159497;9
+LUSC;GBSA;4;1;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";0.5469113466011889;8
+LUSC;GBSA;4;2;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";0.5079462102689487;4
+LUSC;GBSA;4;3;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";0.5577124868835257;9
+LUSC;GBSA;4;1;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";0.5487205996381493;8
+LUSC;GBSA;4;2;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";0.4965770171149144;4
+LUSC;GBSA;4;3;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";0.5393494228751312;9
+LUSC;GBSA;4;1;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";0.5619023003360042;8
+LUSC;GBSA;4;2;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";0.5091687041564792;4
+LUSC;GBSA;4;3;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";0.5515477439664218;9
+LUSC;GBSA;4;1;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";0.558542258981649;8
+LUSC;GBSA;4;2;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";0.4963325183374083;4
+LUSC;GBSA;4;3;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";0.5398740818467995;9
+LUSC;GBSA;5;1;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";0.5654160654160654;9
+LUSC;GBSA;5;2;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";0.4653130287648054;2
+LUSC;GBSA;5;3;"n_estimators=100; learning_rate=0.01; max_depth=1; subsample=0.7";0.5492055356227575;4
+LUSC;GBSA;5;1;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";0.5714285714285714;9
+LUSC;GBSA;5;2;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";0.4847715736040609;2
+LUSC;GBSA;5;3;"n_estimators=100; learning_rate=0.01; max_depth=2; subsample=0.7";0.52614044079959;4
+LUSC;GBSA;5;1;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";0.5637325637325638;9
+LUSC;GBSA;5;2;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";0.4662799129804206;2
+LUSC;GBSA;5;3;"n_estimators=100; learning_rate=0.02; max_depth=1; subsample=0.7";0.5516401845207586;4
+LUSC;GBSA;5;1;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";0.5625300625300625;9
+LUSC;GBSA;5;2;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";0.49274836838288616;2
+LUSC;GBSA;5;3;"n_estimators=100; learning_rate=0.02; max_depth=2; subsample=0.7";0.5258841619682214;4
+LUSC;GBSA;5;1;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";0.5591630591630592;9
+LUSC;GBSA;5;2;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";0.4714769156393522;2
+LUSC;GBSA;5;3;"n_estimators=150; learning_rate=0.01; max_depth=1; subsample=0.7";0.5467708867247565;4
+LUSC;GBSA;5;1;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";0.5702260702260702;9
+LUSC;GBSA;5;2;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";0.49299008943678996;2
+LUSC;GBSA;5;3;"n_estimators=150; learning_rate=0.01; max_depth=2; subsample=0.7";0.521783700666325;4
+LUSC;GBSA;5;1;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";0.5557960557960558;9
+LUSC;GBSA;5;2;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";0.4741358472322939;2
+LUSC;GBSA;5;3;"n_estimators=150; learning_rate=0.02; max_depth=1; subsample=0.7";0.5483085597129677;4
+LUSC;GBSA;5;1;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";0.5608465608465608;9
+LUSC;GBSA;5;2;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";0.49722020788010635;2
+LUSC;GBSA;5;3;"n_estimators=150; learning_rate=0.02; max_depth=2; subsample=0.7";0.5207585853408508;4
